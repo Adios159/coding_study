@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "C_sharp", "C_sharp", "{19A2B4A5-8C19-5512-A8B5-40F83BB80AFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TempApp", "C_sharp\TempApp\TempApp.csproj", "{3FDC8E02-571D-8ECF-30DA-D207AF1AF914}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FDC8E02-571D-8ECF-30DA-D207AF1AF914}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FDC8E02-571D-8ECF-30DA-D207AF1AF914}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FDC8E02-571D-8ECF-30DA-D207AF1AF914}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FDC8E02-571D-8ECF-30DA-D207AF1AF914}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3FDC8E02-571D-8ECF-30DA-D207AF1AF914} = {19A2B4A5-8C19-5512-A8B5-40F83BB80AFA}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F75CED2E-1AA5-40CB-AFFA-8D422C618B88}
+	EndGlobalSection
+EndGlobal

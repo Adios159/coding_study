@@ -1,0 +1,15 @@
+/workspaces/coding_study/C_sharp/TempApp/bin/Debug/net8.0/TempApp
+/workspaces/coding_study/C_sharp/TempApp/bin/Debug/net8.0/TempApp.deps.json
+/workspaces/coding_study/C_sharp/TempApp/bin/Debug/net8.0/TempApp.runtimeconfig.json
+/workspaces/coding_study/C_sharp/TempApp/bin/Debug/net8.0/TempApp.dll
+/workspaces/coding_study/C_sharp/TempApp/bin/Debug/net8.0/TempApp.pdb
+/workspaces/coding_study/C_sharp/TempApp/obj/Debug/net8.0/TempApp.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/coding_study/C_sharp/TempApp/obj/Debug/net8.0/TempApp.AssemblyInfoInputs.cache
+/workspaces/coding_study/C_sharp/TempApp/obj/Debug/net8.0/TempApp.AssemblyInfo.cs
+/workspaces/coding_study/C_sharp/TempApp/obj/Debug/net8.0/TempApp.csproj.CoreCompileInputs.cache
+/workspaces/coding_study/C_sharp/TempApp/obj/Debug/net8.0/TempApp.sourcelink.json
+/workspaces/coding_study/C_sharp/TempApp/obj/Debug/net8.0/TempApp.dll
+/workspaces/coding_study/C_sharp/TempApp/obj/Debug/net8.0/refint/TempApp.dll
+/workspaces/coding_study/C_sharp/TempApp/obj/Debug/net8.0/TempApp.pdb
+/workspaces/coding_study/C_sharp/TempApp/obj/Debug/net8.0/TempApp.genruntimeconfig.cache
+/workspaces/coding_study/C_sharp/TempApp/obj/Debug/net8.0/ref/TempApp.dll
