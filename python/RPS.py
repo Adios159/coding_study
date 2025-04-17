@@ -28,3 +28,4 @@ elif myhand == "보":
         print("이겼습니다. ^^")
     elif comhand == "보":
         print("비겼습니다. ㅡ.ㅡ")
+
